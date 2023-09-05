@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm a Frontend Developer and a Backend Developer in the making Jesse</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JCDWHIZ&label=Profile%20views&color=0e75b6&style=flat" alt="JCDWHIZ" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JCDWHIZ&theme=onedark" alt="JCDWHIZ" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JCDWHIZ&theme=algolia" alt="JCDWHIZ" /></a> </p>
 
-- 🌱 I’m currently learning PHP **laravel**
-- 💬 Ask me about Javascript **React and next JS**
+- 🌱 I’m currently learning PHP , **laravel**
+- 💬 Ask me about Javascript , **React and next JS**
 - 📫 How to reach me **jesseugboh@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/JCDWHIZ**
 - ⚡ Fun fact **I am a good bottle flipper**
