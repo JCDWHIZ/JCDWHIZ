@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JCDWHIZ&theme=algolia" alt="JCDWHIZ" /></a> </p>
 
-- 🌱 I’m currently learning Phyhton and Next JS,
+- 🌱 I’m currently learning C# and the .Net framework,
 - 💬 Ask me about Javascript , **React and next JS**
 - 📫 How to reach me **jesseugboh@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/JCDWHIZ**
